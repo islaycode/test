@@ -1,0 +1,21 @@
+.js{
+    border:2px solid black;
+    height: 200px;
+    width:200px;
+}
+h3{
+    margin: 5px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    
+    align-content: center;
+    border: 5px solid gray;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    box-sizing: border-box;
+}
